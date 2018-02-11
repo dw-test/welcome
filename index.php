@@ -1,4 +1,5 @@
 <?php
-//some comment
+//some comments
+//some other comments
 echo "hello world"
 ?>
